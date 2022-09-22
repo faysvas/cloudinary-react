@@ -86,6 +86,7 @@ import { Image, Video, Transformation } from 'cloudinary-react';
 
 ### File upload
 
+cxvxvxcvxv
 This SDK does not provide file upload functionality, however there are [several methods of uploading from the client side](https://cloudinary.com/documentation/react1_image_and_video_upload).
 
 ## Contributions
