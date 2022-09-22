@@ -84,6 +84,8 @@ import { Image, Video, Transformation } from 'cloudinary-react';
     - Use <Image> to generate image tags
     - Use <Video> to generate video tags
 
+xcvcxv
+
 ### File upload
 
 cxvxvxcvxv
